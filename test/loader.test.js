@@ -1,7 +1,7 @@
-import compiler from './compiler.js';
-import { JSDOM } from 'jsdom';
-import fs from 'fs';
-import path from 'path';
+const compiler = require('./compiler.js');
+const { JSDOM } = require('jsdom');
+const fs = require('fs');
+const path = require('path');
 
 test('Inserts name and outputs JavaScript', async () => {
   const { stats, result } = await compiler('./example.js');

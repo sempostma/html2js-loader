@@ -1,9 +1,9 @@
-import path from 'path';
-import webpack from 'webpack';
-import memoryfs from 'memory-fs';
-import webpackConfig from './webpack.config.babel';
+const path = require('path');
+const webpack =  require('webpack');
+const memoryfs = require('memory-fs');
+const webpackConfig = require('./webpack.config.babel');
 
-export default (fixture, options = {}) => {
+module.exports = (fixture, options = {}) => {
   const compiler = webpack(webpackConfig);
 
   compiler.outputFileSystem = new memoryfs();
