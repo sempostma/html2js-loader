@@ -1,8 +1,8 @@
-[![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
-[![test][test]][test-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
+![npm][npm][npm-url]
+![deps][deps][deps-url]
+![test][test][test-url]
+![coverage][cover][cover-url]
+![chat][chat][chat-url]
 
 <div align="center">
   <img width="200" height="200"
