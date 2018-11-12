@@ -1,15 +1,13 @@
-![npm][npm][npm-url]
-![deps][deps][deps-url]
-![test][test][test-url]
-![coverage][cover][cover-url]
-![chat][chat][chat-url]
-
 <div align="center">
   <img width="200" height="200"
     src="https://worldvectorlogo.com/logos/html5.svg">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" vspace="" hspace="25"
       src="https://worldvectorlogo.com/logos/webpack.svg">
+  </a>
+  <a href="https://html2js.esstudio.site">
+    <img width="200" height="200" vspace="" hspace="25"
+      src="https://html2js.esstudio.site/android-chrome-256x256.png">
   </a>
 </div>
 
