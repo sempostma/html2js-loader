@@ -35,10 +35,6 @@ Add the html2js-loader to your webpack.config.js.
 
 Now, simply import/require any html. For example:
 
-```js
-cosnt createList = require('./templates/list.html');
-```
-
 ```html
 <!-- templates/list.html -->
 <ul role="list">
@@ -46,6 +42,12 @@ cosnt createList = require('./templates/list.html');
     <li>Item two</li>
     <li>Item three</li>
 </ul>
+```
+
+```js
+cosnt createList = require('./templates/list.html');
+
+document.body.appendChild(createList());
 ```
 
 this will be converted to the following javascript:
