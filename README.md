@@ -53,19 +53,19 @@ document.body.appendChild(createList());
 this will be converted to the following javascript:
 
 ```javascript
-function createNode() {
-var e_0 = document.createElement("ul");
-e_0.setAttribute("role", "list");
-var e_1 = document.createElement("li");
-e_1.appendChild(document.createTextNode("Item one"));
-e_0.appendChild(e_1);
-var e_2 = document.createElement("li");
-e_2.appendChild(document.createTextNode("Item two"));
-e_0.appendChild(e_2);
-var e_3 = document.createElement("li");
-e_3.appendChild(document.createTextNode("Item three"));
-e_0.appendChild(e_3);
-return e_0;
+  function createNode() {
+  var e_0 = document.createElement("ul");
+  e_0.setAttribute("role", "list");
+  var e_1 = document.createElement("li");
+  e_1.appendChild(document.createTextNode("Item one"));
+  e_0.appendChild(e_1);
+  var e_2 = document.createElement("li");
+  e_2.appendChild(document.createTextNode("Item two"));
+  e_0.appendChild(e_2);
+  var e_3 = document.createElement("li");
+  e_3.appendChild(document.createTextNode("Item three"));
+  e_0.appendChild(e_3);
+  return e_0;
 }
 ```
 
