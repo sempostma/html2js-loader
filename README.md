@@ -1,3 +1,7 @@
+![license][license]
+![issues][issues]
+![twitter][twitter]
+
 <div align="center">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" vspace="" hspace="25"
@@ -118,6 +122,9 @@ var e=a("ul");c(e,"role","list");var f=a("li");d(f,b("Item one"));d(e,f);f=a("li
 
 
 
+[twitter]: https://img.shields.io/twitter/url/https/www.npmjs.com/package/html2js-loader.svg?style=social
+[issues]: https://img.shields.io/github/issues/LesterGallagher/html2js-loader.svg
+[license]: https://img.shields.io/github/license/LesterGallagher/html2js-loader.svg
 
 
 
