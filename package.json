@@ -1,6 +1,6 @@
 {
   "name": "html2js-loader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "scripts": {
     "test": "jest",
