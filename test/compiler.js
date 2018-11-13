@@ -4,6 +4,7 @@ const memoryfs = require('memory-fs');
 const webpackConfig = require('./webpack.config.babel');
 
 module.exports = (fixture, options = {}) => {
+  webpackConfig.entry = fixture;
   const compiler = webpack(webpackConfig);
 
   compiler.outputFileSystem = new memoryfs();
