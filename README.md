@@ -49,7 +49,7 @@ Now, simply import/require any html. For example:
 ```
 
 ```js
-cosnt createList = require('./templates/list.html');
+const createList = require('./templates/list.html');
 
 document.body.appendChild(createList());
 ```
