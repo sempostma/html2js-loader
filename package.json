@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "author": "Sem Postma",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "jsdom": "^13.0.0",
     "loader-utils": "^1.1.0",

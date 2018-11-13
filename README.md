@@ -16,7 +16,7 @@ Exports HTML to javascript instructions. Create javascript functions from HTML t
 ## Install
 
 ```bash
-npm i -D https://github.com/LesterGallagher/html2js-loader
+npm i -D html2js-loader
 ```
 
 ## Usage
