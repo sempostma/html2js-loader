@@ -36,7 +36,6 @@ test('Test loading of inline SVG', async () => {
   const { output } = test;
 
   expect(output.tagName).toBe(ref.tagName);
-  console.log(result)
 });
 
 

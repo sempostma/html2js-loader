@@ -12,7 +12,6 @@ module.exports = {
             test: /\.html$/,
             use: {
                 loader: path.resolve(__dirname, '../index'),
-                options: { }
             }
         }]
     }
