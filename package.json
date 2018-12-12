@@ -1,7 +1,7 @@
 {
   "name": "html2js-loader",
   "version": "1.0.4",
-  "description": "",
+  "description": "Exports HTML to javascript instructions. Create javascript functions from HTML templates.",
   "scripts": {
     "test": "jest",
     "webpack": "webpack"
@@ -22,5 +22,17 @@
     "memory-fs": "^0.4.1",
     "regenerator-runtime": "^0.12.1",
     "webpack": "^4.25.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LesterGallagher/html2js-loader.git"
+  },
+  "homepage": "https://github.com/LesterGallagher/html2js-loader",
+  "keywords": [
+    "html",
+    "javascript",
+    "webpack",
+    "loader",
+    "html2js"
+  ]
 }
