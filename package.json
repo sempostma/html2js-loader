@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "Exports HTML to javascript instructions. Create javascript functions from HTML templates.",
   "scripts": {
-    "test": "jest",
+    "test": "jest --detectOpenHandles",
     "webpack": "webpack"
   },
   "main": "index.js",
