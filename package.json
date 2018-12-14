@@ -1,6 +1,6 @@
 {
   "name": "html2js-loader",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Exports HTML to javascript instructions. Create javascript functions from HTML templates.",
   "scripts": {
     "test": "jest --detectOpenHandles",
