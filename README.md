@@ -57,7 +57,7 @@ document.body.appendChild(createList());
 this will be converted to the following javascript:
 
 ```javascript
-  function createNode() {
+function createNode() {
   var e_0 = document.createElement("ul");
   e_0.setAttribute("role", "list");
   var e_1 = document.createElement("li");
