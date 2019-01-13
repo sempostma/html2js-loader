@@ -1,1 +1,15 @@
+title: html2js-loader
+decription: Exports HTML to javascript instructions. Create javascript functions from HTML templates.
 theme: jekyll-theme-cayman
+google_analytics: UA-90014538-4
+author: Sem Postma
+twitter:
+  username: esstudio_site
+  card: summary
+social:
+  name: ESStudio
+  links:
+    - https://pinterest.com/eestudio0040/
+    - https://github.com/LesterGallagher
+    - https://twitter.com/esstudio_site
+show_downloads: true
