@@ -119,7 +119,13 @@ And the following minified javascript instructions for the html template:
 var e=a("ul");c(e,"role","list");var f=a("li");d(f,b("Item one"));d(e,f);f=a("li");d(f,b("Item two"));d(e,f);f=a("li");d(f,b("Item three"));d(e,f);
 ```
 
+## Testing
 
+Make sure the dev dependencies are installed and run:
+
+```bash
+npm test
+```
 
 
 
