@@ -13,8 +13,8 @@
 
 Exports HTML to javascript instructions. Create javascript functions from HTML templates.
 
-[![GitHub license](https://img.shields.io/github/license/LesterGallagher/html2js-loader.svg)](https://github.com/LesterGallagher/html2js-loader/blob/master/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/html2js-loader.svg)](https://github.com/LesterGallagher/html2js-loader/issues)
+[![GitHub license](https://img.shields.io/github/license/sempostma/html2js-loader.svg)](https://github.com/sempostma/html2js-loader/blob/master/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/sempostma/html2js-loader.svg)](https://github.com/sempostma/html2js-loader/issues)
 [![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/html2js-loader.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fhtml2js-loader)
 
 ## Install
