@@ -10,7 +10,7 @@
   "author": "Sem Postma",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "loader-utils": "^1.1.0",
     "schema-utils": "^1.0.0"
   },
